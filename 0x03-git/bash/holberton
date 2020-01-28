@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Holberton school"
 =======
 echo "holberton School is so cool!"
 >>>>>>> origin/master
+=======
+echo "Holberton School"
+>>>>>>> 7dced4bb4dc3556574fadfa82953b0e6818559ef
