@@ -1,1 +1,1 @@
-this directory contains three other directories
+this directory contains three other directories about git
